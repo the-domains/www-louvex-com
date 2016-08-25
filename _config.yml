@@ -1,0 +1,14 @@
+layout_spectrum: 0.5752688
+typography_spectrum: 0.4229391
+color:
+  saturation: 0.4815295
+  lightness: 0.5016252
+  brandStrength: 0.2280338
+  brandColors:
+    - '#171719'
+    - '#564F57'
+    - '#8C8482'
+    - '#EAE0DE'
+    - '#DD204E'
+  rhythmicContrast: 0.7060932
+name: www.louvex.com
