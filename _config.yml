@@ -1,5 +1,4 @@
 layout_spectrum: 0.5752688
-typography_spectrum: 0.4229391
 color:
   saturation: 0.4815295
   lightness: 0.5016252
@@ -11,4 +10,5 @@ color:
     - '#E5D6B9'
     - '#946F33'
   rhythmicContrast: 0.7060932
+typography_spectrum: 0.4229391
 name: www.louvex.com
